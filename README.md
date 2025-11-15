@@ -345,10 +345,6 @@ sudo systemctl start mongod
 - Add email notifications for status updates
 - Implement pagination for large datasets
 
-## 👥 Team Members
-
-- Your Name / Team Name Here
-
 ## 📄 License
 
 MIT License - Feel free to use this project for your hackathon or learning purposes.
